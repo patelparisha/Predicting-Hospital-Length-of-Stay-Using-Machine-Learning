@@ -12,8 +12,8 @@ A stacked modeling approach is used to improve predictive stability and accuracy
 
 
 ## Collaborators: 
-Allison Kramer
-Anna Baldzikowski
-Parisha Patel
+Allison Kramer,
+Anna Baldzikowski,
+Parisha Patel,
 Samuel Buelvas
 
